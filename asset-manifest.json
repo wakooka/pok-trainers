@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pok-trainers/static/css/main.6705ca87.css",
+    "main.js": "/pok-trainers/static/js/main.9060892c.js",
+    "static/media/pokemon-background.jpeg": "/pok-trainers/static/media/pokemon-background.7254073cbb33496cf02c.jpeg",
+    "index.html": "/pok-trainers/index.html",
+    "main.6705ca87.css.map": "/pok-trainers/static/css/main.6705ca87.css.map",
+    "main.9060892c.js.map": "/pok-trainers/static/js/main.9060892c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6705ca87.css",
+    "static/js/main.9060892c.js"
+  ]
+}
